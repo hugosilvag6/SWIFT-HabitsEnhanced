@@ -141,8 +141,6 @@
 		C1A3974C287CD525001D9FD7 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
 		C1A3974E287CD580001D9FD7 /* SplashUIState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashUIState.swift; sourceTree = "<group>"; };
 		C1A39751287CEB22001D9FD7 /* SplashViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewModel.swift; sourceTree = "<group>"; };
-		C1A39755287CF965001D9FD7 /* MVVM.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = MVVM.md; sourceTree = "<group>"; };
-		C1A39756287D05FB001D9FD7 /* Notas.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Notas.md; sourceTree = "<group>"; };
 		C1A3975C287D0711001D9FD7 /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
 		C1A3975E287D075E001D9FD7 /* SignInViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewModel.swift; sourceTree = "<group>"; };
 		C1A39760287D0831001D9FD7 /* SplashViewRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewRouter.swift; sourceTree = "<group>"; };
@@ -404,8 +402,6 @@
 		C1A3972F287CD49E001D9FD7 = {
 			isa = PBXGroup;
 			children = (
-				C1A39756287D05FB001D9FD7 /* Notas.md */,
-				C1A39755287CF965001D9FD7 /* MVVM.md */,
 				C1A3973A287CD49E001D9FD7 /* HabitsEnhanced */,
 				C1A39739287CD49E001D9FD7 /* Products */,
 				17C34990993473BF99BBAB78 /* Pods */,
