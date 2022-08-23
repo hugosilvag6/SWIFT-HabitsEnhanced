@@ -1,0 +1,6 @@
+framework module Pods_HabitsEnhanced {
+  umbrella header "Pods-HabitsEnhanced-umbrella.h"
+
+  export *
+  module * { export * }
+}
